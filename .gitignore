@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.env.local
+*.keystore
+!debug.keystore
+firebase-adminsdk*.json
+app/android/.gradle/
+app/android/app/build/
+app/android/local.properties
+app/ios/Pods/
+app/ios/build/
